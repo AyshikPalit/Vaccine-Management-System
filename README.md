@@ -1,2 +1,2 @@
 # Vaccine-Management-System
-A java project with MySQL database to handle mass vaccination.
+A java project with MySQL database to handle mass vaccination. A complete vaccine management system using core java and MySQL, the project includes a login page , a home page with menu bar having options to handle candidate details, vaccine name and vaccine dose number. The whole project is made on NetBeans IDE 12.6 and also requires MySQL jdbc driver 8.0.27 and rs2xml file to connect the database with the data provided and to handle the tables used to show details of candidate respectively.
